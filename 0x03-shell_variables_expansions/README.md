@@ -1,0 +1,1 @@
+shell_init__variables
